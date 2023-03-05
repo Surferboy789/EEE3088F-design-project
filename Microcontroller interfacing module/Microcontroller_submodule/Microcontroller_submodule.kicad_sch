@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 5c40a3f2-2b7a-4131-8658-cd70a10aacb7)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 107.95 60.96) (size 78.74 34.29) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 25604559-9e68-48b6-b645-4cd843cc588a)
+    (property "Sheetname" "Microcontroller sub module" (at 107.95 60.2484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Microcontroller.kicad_sch" (at 107.95 95.8346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Microcontroller_submodule"
+        (path "/5c40a3f2-2b7a-4131-8658-cd70a10aacb7" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
