@@ -1,0 +1,13 @@
+﻿Reference,value,Part number,Quantity,price per unit,Total Price
+    BT1,5V_Battery_Cell,,1,,
+>  C1-C4,10uF,C15850,4,$0.0135,$0.054
+    D1,RED LED,C2286,1,$0.0054,$0.0054
+    D2,GREEN LED,C2297,1, $0.0133, $0.0133
+">  J1, J3",Conn_01x02_Male,,2,,
+    J2,USB_B_Micro,C404969,1,$0.0333,$0.0333
+    N-ChannelMosfet1,2N7002,C8545,1,$0.0153,$0.0153
+">  R1, R2",1K,C58674,2,$0.0088,$0.0176
+">  TP1, TP2",TestPoint,,2,,
+    U1,HT75xx-1-SOT89,C14289,1, $0.1315, $0.1315
+    U2,TP4056,C16581,1,$0.2027,$0.2027
+,,,,Total cost,$0.6108
