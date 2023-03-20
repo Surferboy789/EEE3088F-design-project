@@ -1,0 +1,22 @@
+Error: Duplicate items C1
+
+Error: Duplicate items C2
+
+Error: Duplicate items C3
+
+Error: Duplicate items C4
+
+Error: Duplicate items D1
+
+Error: Duplicate items D2
+
+Error: Duplicate items J2
+
+Error: Duplicate items R1
+
+Error: Duplicate items R2
+
+Error: Duplicate items U1
+
+Error: Duplicate items U2
+

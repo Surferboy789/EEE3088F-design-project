@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid cce61722-d4ce-4f54-abf4-b299d0ab67e2)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 26.67 26.67) (size 114.3 72.39) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 12efe97a-1471-4a68-90a7-acf5ba080499)
+    (property "Sheetname" "Power managment" (at 26.67 24.0934 0)
+      (effects (font (size 5 5) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 26.67 99.6446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEE3088_design_project"
+        (path "/cce61722-d4ce-4f54-abf4-b299d0ab67e2" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 161.29 30.48) (size 106.68 63.5) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid cd3a4337-b1a6-4ffe-ad89-4d89a06a89a6)
+    (property "Sheetname" "Microcontroller Interface" (at 161.29 27.9034 0)
+      (effects (font (size 5 5) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "Microcontroller interface.kicad_sch" (at 161.29 94.5646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEE3088_design_project"
+        (path "/cce61722-d4ce-4f54-abf4-b299d0ab67e2" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
