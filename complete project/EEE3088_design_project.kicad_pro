@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.45,
+          "width": 1.175
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -493,6 +493,10 @@
     [
       "cd3a4337-b1a6-4ffe-ad89-4d89a06a89a6",
       "Microcontroller Interface"
+    ],
+    [
+      "a0e2bd95-2f4c-471a-988b-a6b0e6a43058",
+      "Sensors"
     ]
   ],
   "text_variables": {}
