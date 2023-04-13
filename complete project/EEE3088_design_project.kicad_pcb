@@ -10,6 +10,7 @@
     (rev "1.0")
     (comment 1 "Added all components from power and microcontroller interface")
     (comment 2 "Added all sensors")
+    (comment 3 "Corrected group info")
   )
 
   (layers
@@ -3707,7 +3708,7 @@
   (gr_text "A1" (at 101.6 125.476) (layer "F.SilkS") (tstamp e3038c60-fa57-429b-a201-0b73cb0e26a1)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "Group 32 Data logger" (at 92.456 153.924 90) (layer "F.SilkS") (tstamp f8eca1b6-a4a0-41be-a5b5-8df493bb1c0c)
+  (gr_text "Group 31 Data logger" (at 92.456 153.924 90) (layer "F.SilkS") (tstamp f8eca1b6-a4a0-41be-a5b5-8df493bb1c0c)
     (effects (font (size 4 2) (thickness 0.4) bold) (justify left bottom))
   )
 
